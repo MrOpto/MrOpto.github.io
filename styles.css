@@ -1,11 +1,11 @@
 
 /* this is to chnage the color of the text on the website */
 body {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
   }
   
   body {
-    background-color: rgb(105, 105, 109);
+    background-color: rgb(251, 251, 255);
   }
   
   body {
@@ -14,5 +14,10 @@ body {
   
   body {
     font-size: 20px;
+  }
+  
+
+  li a {
+    text-decoration: none;
   }
   
